@@ -1,2 +1,2 @@
 # h2w-detectpy
-Pythonic Detection Content
+Pythonic Detection Logic & Queries 
