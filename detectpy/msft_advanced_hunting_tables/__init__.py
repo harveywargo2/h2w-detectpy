@@ -1,0 +1,1 @@
+from detectpy.msft_advanced_hunting_tables.windows.comsvcs import *
